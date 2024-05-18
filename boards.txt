@@ -430,6 +430,10 @@ esp32c6.menu.PartitionScheme.custom=Custom
 esp32c6.menu.PartitionScheme.custom.build.partitions=
 esp32c6.menu.PartitionScheme.custom.upload.maximum_size=16777216
 
+esp32c6.menu.PartitionScheme.app8mfull=8M Full (7.8MB App)
+esp32c6.menu.PartitionScheme.app8mfull.build.partitions=app8mfull
+esp32c6.menu.PartitionScheme.app8mfull.upload.maximum_size=8388602
+
 esp32c6.menu.CPUFreq.160=160MHz (WiFi)
 esp32c6.menu.CPUFreq.160.build.f_cpu=160000000L
 esp32c6.menu.CPUFreq.120=120MHz (WiFi)
